@@ -20,7 +20,7 @@ Feita no Excel e SQL
   - Fiz algumas queries no SQL para obter informações relevantes e precisas, depois utilizei o Excel para a criação de KPIs e dashboard.
 
 ### SQL
-  - Visão total das queries
+  - Visão geral das queries
   
   ![Captura de tela 2024-05-21 215125](https://github.com/chernayavdova/venda.pizza/assets/86575159/bad5d477-2d0e-436d-ad79-5593a2250b8d)
 
