@@ -108,3 +108,10 @@ Feita no Excel e SQL
 ![Captura de tela 2024-05-21 221228](https://github.com/chernayavdova/venda.pizza/assets/86575159/452dbff0-b134-4f95-8450-670c304bca79)
 
 ### Excel
+
+No Excel eu criei as KPI's e tabelas dinâmicas para maior fluidez na vizualição
+
+E assim ficou o dashboard!
+
+![Captura de tela 2024-05-25 132525](https://github.com/chernayavdova/venda.pizza/assets/86575159/5f41a5bc-c7cb-49f7-a5ba-224473995b97)
+
